@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: 
+https://miley-cyrus.github.io/sitemap.xml
